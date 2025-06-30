@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+    /* container  */
+  --spacing-myCustomContainer: 1170px; 
+  /* container  */
+  /* button bg */
+  --color-buttonBg: #ff4240;
+  --color-darkT: #131318;
+  --color-descriptionT: #13131899;
+  /* button bg */
+  /* google fonts  */
+  --font-manrope: font-family: "Manrope", sans-serif;
+  /* google fonts  */
+}
